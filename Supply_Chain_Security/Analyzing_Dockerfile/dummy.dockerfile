@@ -1,4 +1,4 @@
-FROM nginx:1.21.6
+FROM nginx:1.27.2
 # User Latest Validated Version
 # Avoid using the latest tag version
 
